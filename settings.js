@@ -5,8 +5,8 @@ global.MONGO_DB_URI = "mongodb+srv://apxxx:apxxx123@cluster0.yh2drud.mongodb.net
 global.ACTIVATION_TOKEN_SECRET = "fdawxcwmzqobdhim" //isi apa aja bebas
 global.your_email = "apxxxbusines@gmail.com" //email
 global.email_password = "fdawxcwmzqobdhim" //application password email
-global.limitCount = 10000
-global.YUOR_PORT = 8000
+global.limitCount = 1000
+global.YUOR_PORT = 3000
 global.loghandler = {
 	noapikey:{
 		status: 403,
